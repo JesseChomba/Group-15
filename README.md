@@ -1,7 +1,7 @@
 # Gym Membership Management System
 
 ## Overview
-This project is a comprehensive Gym Membership Management System, designed to streamline the operations of gyms by managing memberships, trainers, sessions, and payments effectively. It includes an SQL database schema, source code for operations, design diagrams, and a detailed final report in PDF format.
+This project is a comprehensive Gym Membership Management System, designed to streamline the operations of gyms by managing memberships, trainers, sessions, and payments effectively. It includes an SQL database schema, SQL scripts for operations, design diagrams, and a detailed final report in PDF format.
 
 ---
 
