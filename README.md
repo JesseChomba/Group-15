@@ -15,7 +15,7 @@ This project is a comprehensive Gym Membership Management System, designed to st
 
 
 ### 2. **Design Diagrams**
-Under the folder diagrams:
+Under the folder Diagrams:
    - `erd.drawio.png`: The Entity-Relationship Diagram for the database.
    - `sql chema.drawio.png`: Detailed table designs for the system.
    
