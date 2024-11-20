@@ -1,16 +1,18 @@
 # Gym Membership Management System
 
 ## Overview
-This project is a comprehensive Gym Membership Management System, designed to streamline the operations of gyms by managing memberships, trainers, sessions, and payments effectively. It includes an SQL database schema, SQL scripts for operations, design diagrams, and a detailed final report in PDF format.
+This project is a comprehensive Gym Membership Management System, designed to streamline the operations of gyms by managing memberships, trainers, sessions, and payments effectively. It includes an SQL database schema, SQL scripts for operations,views design diagrams, and a detailed final report in PDF format.
 
 ---
 
 ## Repository Contents
 ### 1. **SQL Scripts & SOURCE CODE**
+Inside the SQL Folder
    - `schema.sql`: Contains the SQL scripts for creating the database tables and their relationships (e.g., `Member`, `Trainer`, `Session`, `Payments`, etc.).
    - `data_population.sql`: Includes sample data to populate the tables.
    - `queries.sql`: Sample queries to demonstrate CRUD operations.
    - `advanced_queries.sql`: Queries to perform advanced sql queries i.e Procedures,Triggers
+   - `views.sql`:Queries meant to establish various views for the database
 
 
 
@@ -42,7 +44,7 @@ Under the folder Diagrams:
    git clone https://github.com/JesseChomba/Group-15.git
    cd gym-membership-management
 ### 2.**Setup the Database**
-
+   Open the SQL folder
     Open the schema.sql file in a MySQL client and execute the script to create the database and its tables.
     Populate the tables with sample data using the data_population.sql file.
 
