@@ -31,8 +31,8 @@ BEGIN
 	VALUES (p_TypeName, p_Price, p_Duration);
 END //
 DELIMITER ;
-iii.Procedure to Schedule New Session
-DELIMITER //
+-- iii.Procedure to Schedule New Session
+-- DELIMITER //
 CREATE PROCEDURE `ScheduleSession`(
 	IN p_SessionType VARCHAR(50),
 	IN p_SessionDate DATE,
